@@ -370,6 +370,7 @@ export enum PATHOGENICITY {
   LIKELY_PATHOGENIC = 'Likely Pathogenic',
   BENIGN = 'Benign',
   LIKELY_BENIGN = 'Likely Benign',
+  VUS_WITH_SPECIAL_INTERPRETATION = 'VUS with Special Interpretation',
   UNKNOWN = 'Unknown',
 }
 
